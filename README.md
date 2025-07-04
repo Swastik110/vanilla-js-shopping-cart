@@ -20,9 +20,9 @@ data persistence using localStorage. The UI is responsive and supports real-time
 
 
 # Project Structure
-|__indexSCP.html → Main HTML file
-|__styleSCP.css → Styling for the app
-|__scriptSCP.js → JavaScript functionality
+-> indexSCP.html → Main HTML file
+-> styleSCP.css → Styling for the app
+-> scriptSCP.js → JavaScript functionality
 
 
 ## How to Run the Project
